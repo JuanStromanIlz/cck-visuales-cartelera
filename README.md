@@ -7,6 +7,7 @@
   <h2>📖 En este proyecto ✎:</h2>
   <ul>
     <li>react context ✨.</li>
+    <li>localStorage para guardar el tema de cada visita 🎨.</li>
     <li>styled-components 💅.</li>
     <li>react-intersection-observer 🔎.</li>
   </ul>
