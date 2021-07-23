@@ -3,19 +3,18 @@
 </head>
 <body>
   <h1>Cartelera de artes visuales Centro Cultural Kirchner</h1>
-  <a href='/'>Ver Online</a>
+  <a href='https://cck-visuales-cartelera.vercel.app'>Ver Online</a>
   <h2>📖 En este proyecto ✎:</h2>
   <ul>
     <li>react context ✨.</li>
-    <li>react-router-dom 🚄.</li>
     <li>styled-components 💅.</li>
     <li>react-intersection-observer 🔎.</li>
   </ul>
   <h2 style="text-align:center">Capturas</h2>
-  <img src='https://res.cloudinary.com/juanstromanilz/image/upload/v1626446576/Proyectos/Merramarie/merramarie5_de8ujd.png'/>
-  <img src='https://res.cloudinary.com/juanstromanilz/image/upload/v1626446573/Proyectos/Merramarie/merramarie3_umkpsg.png'/>
-  <img src='https://res.cloudinary.com/juanstromanilz/image/upload/v1626446567/Proyectos/Merramarie/merramarie1_q5nbm0.png'/>
-  <img src='https://res.cloudinary.com/juanstromanilz/image/upload/v1626446569/Proyectos/Merramarie/merramarie2_yse3yl.png'/>
+  <img src='https://res.cloudinary.com/juanstromanilz/image/upload/v1627077788/Proyectos/CCK%20Visuales/cckVisuales1_quva2g.png'/>
+  <img src='https://res.cloudinary.com/juanstromanilz/image/upload/v1627077785/Proyectos/CCK%20Visuales/cckVisuales2_iuoggd.png'/>
+  <img src='https://res.cloudinary.com/juanstromanilz/image/upload/v1627077785/Proyectos/CCK%20Visuales/cckVisuales3_ybdwoy.png'/>
+  <img src='https://res.cloudinary.com/juanstromanilz/image/upload/v1627077787/Proyectos/CCK%20Visuales/cckVisuales4_qrxqlo.png'/>
   <br />
   <footer>
     <h3>Juan Stroman Ilz 2021</h3>
