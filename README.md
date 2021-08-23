@@ -1,5 +1,7 @@
 # Cartelera de artes visuales [Centro Cultural Kirchner](https://cck-visuales-cartelera.vercel.app)
-Cartelera de las exhibiciones de artes visuales presentes en el Centro Cultural Kirchner.
+Cartelera de las exhibiciones de artes visuales presentes en el Centro Cultural Kirchner.\
+\
+[![Ver online](https://img.shields.io/badge/-Ver%20Online-red?style=for-the-badge&logo=googlechrome&logoColor=white)](http://cck-visuales-cartelera.vercel.app)
 ## 📖 En este proyecto:
 * ✨ react context.
 * 🎨 localStorage para guardar el tema de cada visita.
